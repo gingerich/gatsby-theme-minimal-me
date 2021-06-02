@@ -5358,6 +5358,33 @@ gatsby-telemetry@^1.1.2:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
+gatsby-theme-julia@*:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-julia/-/gatsby-theme-julia-1.0.1.tgz#3d6f616d3c5a8e69c13bd392e2efc5cd38150c19"
+  integrity sha512-YTUev2J2zkBMyf3SHhYeJ1pRiHE2+MRiY/jtv+gMYeP2bSbZ5OBTQPMVyysUbR3nSb3y47lfUWB0oxpRtZjE0w==
+  dependencies:
+    "@emotion/core" "^10.0.10"
+    "@emotion/styled" "^10.0.11"
+    gatsby "^2.13.1"
+    gatsby-image "^2.1.2"
+    gatsby-plugin-emotion "^4.0.7"
+    gatsby-plugin-manifest "^2.1.1"
+    gatsby-plugin-offline "^2.1.1"
+    gatsby-plugin-react-helmet "^3.0.12"
+    gatsby-plugin-sharp "^2.1.3"
+    gatsby-remark-prismjs "^3.2.10"
+    gatsby-remark-reading-time "^1.0.1"
+    gatsby-source-filesystem "^2.0.38"
+    gatsby-transformer-remark "^2.3.12"
+    gatsby-transformer-sharp "^2.1.21"
+    prism-themes "^1.1.0"
+    prismjs "^1.16.0"
+    prop-types "^15.7.2"
+    react "^16.8.6"
+    react-dom "^16.8.6"
+    react-helmet "^5.2.1"
+    typeface-nunito "0.0.72"
+
 gatsby-transformer-remark@^2.3.12:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.6.1.tgz#6e37b82d7fac01be8c54f58ebdedea6fe5f3f129"

@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  plugins: ["gatsby-theme-julia"],
+  plugins: ["gatsby-theme-minimal-me"],
 }
